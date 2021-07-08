@@ -235,6 +235,17 @@ body {
 }
 
 @media screen and (min-width: 1440px) {
+  .navbar img {
+    width: 200px;
+    margin: 25px;
+  }
+
+  .navbar a {
+    padding: 10px 35px 10px 35px;
+    font-size: 20px;
+    margin: 20px;
+  }
+
   .sub-flex {
     display: flex;
     flex-direction: row-reverse;
